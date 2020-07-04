@@ -27,6 +27,8 @@ On any system you can choose the `Clone or download` button, followed by the `Do
 
 ### Cloning The Repo Via Git
 
+### Note: On linux based systems if you are using my fork you can just double click the ProperTree.sh to install all dependencies. 
+
 #### On *nix systems:
 
 ```
