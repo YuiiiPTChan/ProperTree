@@ -29,6 +29,14 @@ On any system you can choose the `Clone or download` button, followed by the `Do
 
 ### Note: On linux based systems if you are using my fork you can just double click the ProperTree.sh to install all dependencies and run the program. 
 
+#### Usage for linux based distros:
+
+```
+git clone https://github.com/YuiiiPTChan/ProperTree
+cd ./ProperTree
+Double click ProperTree.sh or run in terminal ./ProperTree.sh
+```
+
 #### On *nix systems:
 
 ```
